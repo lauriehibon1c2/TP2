@@ -1,7 +1,7 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #D8F6CE;
 }
 
 #header
@@ -36,7 +36,7 @@
 	display: block;
 	float: left;
 	padding: 5px 10px;
-	color: #F5D0A9;
+	color: ##F7BE81;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
@@ -62,7 +62,7 @@
 
 #edito h2
 {
-	color: #F5D0A9;
+	color: #F7BE81;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
@@ -87,7 +87,7 @@
 }
 
 #news h2{
-color: #F5D0A9;
+color: #F7BE81;
 }
 
 #footer
